@@ -4,10 +4,10 @@ body{
    }
    h1 {
        font-style: italic;
-       color: rgb(214, 59, 150);
+       color: rgb(58, 0, 0);
    }
    h2 {
-       color: aquamarine;
+       color: rgba(255, 0, 0, 0.884);
    }
    
    .imagem {
