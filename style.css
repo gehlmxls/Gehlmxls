@@ -1,15 +1,17 @@
-body{
+body {
     background-color: rgb(231, 217, 237);
     text-align: center;
-   }
-   h1 {
-       font-style: italic;
-       color: rgb(58, 0, 0);
-   }
-   h2 {
-       color: rgba(255, 0, 0, 0.884);
-   }
-   
-   .imagem {
-       width: 50%;
-   }
+}
+
+h1 {
+    font-style: italic;
+    color: rgb(165, 0, 0);
+}
+
+h2 {
+    color: rgb(220, 20, 60);
+}
+
+.imagem {
+    width: 50%;
+}
